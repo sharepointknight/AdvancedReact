@@ -1,0 +1,69 @@
+.nopad{
+    margin-left:-15px;
+    margin-right:-15px;
+}
+
+.catex .search { position: relative; }
+.catex .search input { 
+    text-indent: 5px;
+    background-color:#f5f5f5;
+}
+.catex .search .fa-search { 
+    position: absolute;
+    top: 9px;
+    right: 12px;
+    font-size: 15px;
+    color:grey;
+}
+.catex .subtitle{
+    color:grey;
+}
+.catex .checkbox {
+    margin-top:0px;
+    margin-bottom:0px;
+}
+.catex .lightened{
+    text-transform:capitalize;
+}
+.catex .vert{
+    display: flex;
+    align-items: center;
+}
+.catex .result{
+    min-height: 54px;
+}
+.catex .result:nth-of-type(2n+1){
+    background-color:#F8F8F8;
+}
+.catex .vert > div > *{
+    margin:0;
+}
+.catex .vert > div > h4{
+    padding:0;
+}
+.catex .btn{
+    font-size:14px;
+}
+.catex .page_numero{
+    display: inline-block;
+    height: 24px;
+    width: 24px;
+    text-align: center;
+    line-height: 24px;
+    font-weight: 700;
+    color: #4D4D4D;
+    transition:.5s all;
+}
+.catex .page_numero:hover{
+    background-color: #eee;
+}
+.catex .page_numero.active{
+    background-color: #F1F1F1;
+}
+.catex .vertrule{
+    height: 25px;
+    width: 2px;
+    background-color: #eaeaea;
+    display: inline-block;
+    margin: 0px 12px;
+}
