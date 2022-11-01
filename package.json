@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "awesome-typescript-loader": "^3.0.7",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-sharepoint-sync": "github:fabian-schmidt/gulp-sharepoint-sync",
     "gulp-util": "^3.0.8",
     "gulp-watch": "^4.3.11",
