@@ -22,10 +22,10 @@
     "gulp-sharepoint-sync": "github:fabian-schmidt/gulp-sharepoint-sync",
     "gulp-util": "^3.0.8",
     "gulp-watch": "^4.3.11",
-    "source-map-loader": "^0.1.6",
+    "source-map-loader": "^4.0.1",
     "ts-loader": "^2.0.1",
     "typescript": "^2.2.1",
-    "webpack": "^2.2.1",
-    "webpack-stream": "^3.2.0"
+    "webpack": "^2.7.0",
+    "webpack-stream": "^7.0.0"
   }
 }
